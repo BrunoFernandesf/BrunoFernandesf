@@ -1,18 +1,18 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Bruno+Fernandes!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Bruno+Fernandes!;" />
 </h1>
 
 <div  align="center" >
   - 🔭 Atualmente estou trabalhando como freelancer ...
   <br>
-- 🌱 Atualmente estou trabalhando com react, typescript, Tailwind css ...
+- 🌱 Atualmente estou trabalhando com react, Bootstrap, JavaScript ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
