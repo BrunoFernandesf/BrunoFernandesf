@@ -12,7 +12,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,github,figma,git" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
